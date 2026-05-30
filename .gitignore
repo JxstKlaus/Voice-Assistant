@@ -1,0 +1,8 @@
+*.ckpt
+*.pth
+*.gguf
+__pycache__/
+
+training_voice
+temp
+test.py
